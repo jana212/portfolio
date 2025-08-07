@@ -4,9 +4,23 @@ Willkommen in meinem Portfolio. Hier dokumentiere ich ausgewählte Projekte und 
 
 ## Showcases
 
-| Titel                              | Typ            | Beschreibung                                               | Link |
-|------------------------------------|----------------|------------------------------------------------------------|------|
-| Sales Dashboard Case Study         | Bewerbungsfall | Modellierung eines Gold Layers und Power BI Dashboard      | [Details](showcases/sales-dashboard-case-study.md) |
-| ...                                | ...            | ...                                                        | ...  |
+| Titel                      | Typ            | Beschreibung                                                     | Link                                                                        |
+| -------------------------- | -------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Sales Dashboard Case Study | Bewerbungsfall | Modellierung eines Gold Layers und Power BI Dashboard            | [Details](showcases/sales-dashboard/sales-dashboard-case-study.md)          |
+| E-Commerce Analytics Suite | Konzept        | Forecast, CRM, KPI-Dashboards und technische Optimierung         | [Details](showcases/ecommerce-analytics-suite/ecommerce-analytics-suite.md) |
+| Patient Journey Analytics  | Case Study     | Funnel-Analyse und Visualisierung der klinischen Patient Journey | [Details](showcases/patient-journey-analytics/patient-journey-analytics.md) |
 
 ## Schwerpunkte
+
+* Datenmodellierung (Snowflake/Sternschema)
+* ETL-Prozesse und SQL-Optimierung (Databricks, Fivetran)
+* Dashboard Design (Power BI, Tableau)
+* Web & Marketing Analytics
+* Stakeholder-Kommunikation und Anforderungsmanagement
+
+## Kontakt & Profile
+
+* [Lebenslauf als PDF](resume/jana-bettzuege.pdf)
+* [Malt-Profil](https://www.malt.de/profile/janabettzuege)
+* [LinkedIn](https://www.linkedin.com/in/janabettzuege/)
+* [Persönliche Website](https://www.bettzuege-consulting.de)
