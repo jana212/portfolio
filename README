@@ -4,13 +4,17 @@ Willkommen in meinem Portfolio. Hier dokumentiere ich ausgewählte Projekte und 
 
 ## Showcases
 
-| Titel                      | Typ              | Beschreibung                                                     | Link                                                                        |
-| -------------------------- | ---------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Sales Dashboard Case Study | Bewerbungsfall   | Modellierung eines Gold Layers und Power BI Dashboard            | [Details](showcases/sales-dashboard/sales-dashboard-case-study.md)          |
-| E-Commerce Analytics Suite | Konzept          | Forecast, CRM, KPI-Dashboards und technische Optimierung         | [Details](showcases/ecommerce-analytics-suite/ecommerce-analytics-suite.md) |
-| Patient Journey Analytics  | Case Study       | Funnel-Analyse und Visualisierung der klinischen Patient Journey | [Details](showcases/patient-journey-analytics/patient-journey-analytics.md) |
-| Sales Insight Enablement   | Case Study       | Vertriebsreporting, Datenqualität, BI-Adoption                   | [Details](showcases/sales-insight-case-study/sales-insight-case-study.md)   |
-| Data Science Use Case      | Abschlussprojekt | Explorative Analyse, Feature Engineering und ML-Modellierung     | [Details](showcases/data-science-usecase/data-science-usecase.md)           |
+- **[Sales Dashboard Case Study](showcases/sales-dashboard/sales-dashboard-case-study.md)**
+  *Typ*: Bewerbungsfall
+  *Beschreibung*: Modellierung eines Gold Layers und Power BI Dashboard
+
+- **[E-Commerce Analytics Suite](showcases/ecommerce-analytics-suite/ecommerce-analytics-suite.md)**
+  *Typ*: Konzept
+  *Beschreibung*: Forecast, CRM, KPI-Dashboards und technische Optimierung
+
+- **[Patient Journey Analytics](showcases/patient-journey-analytics/patient-journey-analytics.md)**
+  *Typ*: Case Study
+  *Beschreibung*: Funnel-Analyse und Visualisierung der klinischen Patient Journey
 
 ## Schwerpunkte
 
@@ -22,6 +26,6 @@ Willkommen in meinem Portfolio. Hier dokumentiere ich ausgewählte Projekte und 
 
 ## Kontakt & Profile
 
-* [Persönliche Website](https://www.bettzuege-consulting.de)
+* [Website](https://www.bettzuege-consulting.de)
 * [LinkedIn](https://www.linkedin.com/in/janabettzuege/)
 * [Malt-Profil](https://www.malt.de/profile/janabettzuege)
