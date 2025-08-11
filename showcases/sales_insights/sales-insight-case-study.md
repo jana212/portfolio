@@ -70,6 +70,7 @@ Ein vergleichbares Projekt in einem Unternehmen mit traditionellem Setup zeigte:
 
 ---
 
+[full presentation]([/assets/sales_insight_case_study_anonymized.pdf])
 ## Tags
 
 `SalesAnalytics` `StakeholderEnablement` `BIAdoption` `CRM` `DataStrategy` `CaseStudy`
