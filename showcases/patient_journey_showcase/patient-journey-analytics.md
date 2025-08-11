@@ -36,7 +36,7 @@ Analyse der Patientendaten entlang definierter Rekrutierungsphasen mit dem Ziel,
 
 Beispielhafte Darstellung:
 
-![Dashboard Funnel](assets/dashboard_funnel.png)
+![Results pptx]([assets/results_dashboard.pptx])
 
 ---
 
