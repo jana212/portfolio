@@ -8,7 +8,7 @@ Willkommen in meinem Portfolio. Hier dokumentiere ich ausgewählte Projekte und 
   *Typ*: Bewerbungsfall
   *Beschreibung*: Modellierung eines Gold Layers und Power BI Dashboard
 
-* **[E-Commerce Analytics Suite](showcases/ecommerce-analytics-suite/ecommerce-analytics-suite.md)**
+* **[E-Commerce Analytics Suite](showcases/ecommerce-analytics-suite.md)**
   *Typ*: Konzept
   *Beschreibung*: Forecast, CRM, KPI-Dashboards und technische Optimierung
 
