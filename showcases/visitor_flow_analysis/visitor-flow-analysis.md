@@ -32,9 +32,6 @@ Analyse von Besucherbewegungen in einer Zonenumgebung mit Fokus auf:
 - Heatmaps zur Besuchsintensität
 - Trenddiagramme zur Wiederkehrquote
 
-<img src="assets/Dashboard_1.png" width="600">
-<img src="assets/Dashboard_2.png" width="600">
-
 ---
 
 ## 3. Ergebnisse & Insights
@@ -46,11 +43,22 @@ Analyse von Besucherbewegungen in einer Zonenumgebung mit Fokus auf:
 
 ---
 
-## Learnings
+## 4. Learnings
 
 - Kombination aus granularen SQL-Auswertungen und interaktiven Visualisierungen liefert belastbare Insights
 - Unterschiedliche Zeitaggregationsebenen decken verschiedene Nutzungsmuster auf
 - Rückkopplung mit Stakeholdern verbessert KPI-Definitionen und Datenmodell
+
+---
+
+## Assets
+Präsentation (PPTX) – vollständige Präsentation
+
+Tableau Workbook (TWBX) – interaktives Dashboard (lokal öffnen)
+
+SQL-Dokumentation (DOCX)
+
+SQL-Skripte (XLSX)
 
 ---
 
