@@ -49,6 +49,7 @@ Das Projekt wurde in vier Modulen strukturiert (einzusehen im Jupyter Notebook):
 ## Beispielhafte Vorschau (Notebook-Auszug)
 
 > Das vollständige Notebook ist als `.ipynb` verfügbar und kann lokal oder über nbviewer geöffnet werden.
+> [full notebook] (/assets/data_science_pipeline.ipynb)
 
 ```python
 # Beispiel: Klassifikation mit RandomForest
@@ -57,7 +58,6 @@ model = RandomForestClassifier(random_state=42)
 model.fit(X_train, y_train)
 preds = model.predict(X_test)
 ```
-
 ---
 
 ## Learnings
