@@ -32,8 +32,9 @@ Analyse von Besucherbewegungen in einer Zonenumgebung mit Fokus auf:
 - Heatmaps zur Besuchsintensität
 - Trenddiagramme zur Wiederkehrquote
 
-![Page 1](assets/Dashboard_1.png)
-![Page 2](assets/Dashboard_2.png)
+<img src="assets/Dashboard_1.png" width="600">
+<img src="assets/Dashboard_2.png" width="600">
+
 ---
 
 ## 3. Ergebnisse & Insights
