@@ -49,7 +49,7 @@ Das Projekt wurde in vier Modulen strukturiert (einzusehen im Jupyter Notebook):
 ## Beispielhafte Vorschau (Notebook-Auszug)
 
 > Das vollständige Notebook ist als `.ipynb` verfügbar und kann lokal oder über nbviewer geöffnet werden.
-[full notebook] (/assets/data_science_pipeline.ipynb)
+[full notebook](/assets/data_science_pipeline.ipynb)
 
 ```python
 # Beispiel: Klassifikation mit RandomForest
