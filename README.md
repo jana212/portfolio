@@ -28,7 +28,7 @@ Willkommen in meinem Portfolio. Hier dokumentiere ich ausgewählte Projekte und 
   *Typ*: Case Study
   *Beschreibung*: SQL- und Tableau-Analyse von Besucherströmen und Wiederkehrquoten
 
-* **[Student Journey Analytics](showcases/student_journey_analytics/student-journey-analytics.md)**
+* **[Student Journey Analytics](showcases/student_journey_analytics/student-journey-analytics-case-study.md)**
   *Typ*: Case Study
   *Beschreibung*: Analyse der Studierendenreise von Erstkontakt bis Abschluss
 
