@@ -52,16 +52,14 @@ Analyse von Besucherbewegungen in einer Zonenumgebung mit Fokus auf:
 ---
 
 ## Assets
-Präsentation (PPTX) – vollständige Präsentation
-
-Tableau Workbook (TWBX) – interaktives Dashboard (lokal öffnen)
-
-SQL-Dokumentation (DOCX)
-
-SQL-Skripte (XLSX)
+* [Präsentation (PPTX)](assets/visitor_flow.pptx) – vollständige Präsentation
+* [Tableau Workbook (TWBX)](assets/visitor_flow.twbx) – interaktives Dashboard (lokal öffnen)
+* [SQL-Dokumentation (DOCX)](assets/visitor_flow_sql.docx)
+* [SQL-Skripte (XLSX)](assets/visitor_flow_sql.xlsx)
 
 ---
 
 ## Tags
 
 `SQL` `Tableau` `VisitorAnalytics` `ReturnAnalysis` `DataVisualization` `CaseStudy`
+
